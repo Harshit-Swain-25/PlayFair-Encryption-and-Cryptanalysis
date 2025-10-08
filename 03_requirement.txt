@@ -1,0 +1,6 @@
+Requirements:
+- Python 3.13.7 
+- matplotlib library
+
+To install matplotlib:
+    pip install matplotlib
